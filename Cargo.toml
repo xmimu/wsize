@@ -9,4 +9,5 @@ name = "wsize"
 crate-type = ["cdylib"]
 
 [dependencies]
+glob = "0.3.2"
 pyo3 = "0.25.0"
